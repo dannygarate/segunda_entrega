@@ -5,3 +5,12 @@ h1{
 h3{
     text-align: center;
 }
+
+img{
+    height: 200px;
+    weight: 200px;
+}
+
+.nav{
+    text-align: center;
+}
